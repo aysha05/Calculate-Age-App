@@ -1,0 +1,40 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    
+    margin-top: 80px;
+    text-align: center;
+    padding: 20px;
+    background-color: chocolate;
+    color:black;
+   
+
+   
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+input[type="date"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    padding-right: 0px;
+}
+button {
+    padding: 10px 20px;
+    background-color: #a200ff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #6200b3;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+}
